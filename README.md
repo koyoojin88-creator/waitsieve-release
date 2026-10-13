@@ -49,4 +49,4 @@
 
 ---
 
-© 2026 고유진 · Built with Claude
+© 2026 윤수미 · 고유진 · Built with Claude
